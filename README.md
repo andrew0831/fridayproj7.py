@@ -9,7 +9,7 @@
 ## How to run:
   1. Run signupPage.py to create profile with email and password. It will automatically direct you to the sign-in page(I only created this for extra practice).
   2. Exit the sign-in page and run signinPage.py. Enter email and password and it will prompt you wether you entered you log-in correct(Green) or incorrect(Red).
-     ### Must perform this step (Exiting the initial sign-in page) in order to know if you entered your log-in correctly.
-  3.
+     + Must perform this step (Exiting the initial sign-in page) in order to know if you entered your log-in correctly.
+  
 
     
